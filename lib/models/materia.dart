@@ -1,8 +1,8 @@
 import 'conteudo.dart';
 
-class Materia {
+class Materia{
   final String nome;
-  final String descricao;
+  final String descricao; 
   final List<Conteudo> conteudos;
 
   const Materia({
